@@ -1,4 +1,4 @@
-let text = prompt();
+let text = prompt("Metn daxil edin:");
 
 if (/\d/.test(text)) {
     console.log("Rəqəm var")
